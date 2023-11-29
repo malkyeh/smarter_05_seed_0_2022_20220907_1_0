@@ -1,2 +1,2 @@
-# smarter_05_seed_0_2022_20220907_1_0
-育苗種子影像資料集 Seedling image dataset
+# 育苗種子影像資料集 Seedling image dataset
+包含多個品種之十字花科種子，每張影像含21顆種子。
